@@ -105,7 +105,7 @@ Test MSE (lower is better) and Beats %, with the sportsbook line for comparison.
 - Neural network results vary slightly between runs.
 
 ## Project structure
-    nba_ou/
+    ML_Mini_Project_Team_09/
     |-- prepare_data.py   converts the Kaggle file into the two CSVs
     |-- features.py       builds the features and the season splits
     |-- models.py         Ridge, Random Forest, collaborative filtering, neural network, LSTM
