@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/*.csv
+nba_2008-2026.csv
+.venv/
